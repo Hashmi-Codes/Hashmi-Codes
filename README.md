@@ -1,4 +1,4 @@
-![logo](https://github.com/Hashmi-Codes/Hashmi-Codes/blob/main/banner.png2.webp)
+![logo](https://github.com/Hashmi-Codes/Hashmi-Codes/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm JAHRUDDIN HASHMI</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
